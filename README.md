@@ -140,19 +140,6 @@ npm start
 
 The application will open at `http://localhost:3000`
 
-## 📸 Screenshots
-
-### Landing Page
-![Landing Page](screenshots/landing.png)
-
-### Recruiter Dashboard
-![Recruiter Dashboard](screenshots/recruiter-dashboard.png)
-
-### Applicant Dashboard
-![Applicant Dashboard](screenshots/applicant-dashboard.png)
-
-### Job Listings
-![Job Listings](screenshots/job-listings.png)
 
 ## 🔑 Key Functionalities
 
@@ -165,10 +152,8 @@ The application will open at `http://localhost:3000`
 ### Application Process
 1. Recruiter posts a job with details
 2. Applicants browse and apply to jobs
-3. Real-time notification sent to recruiter
-4. Recruiter reviews application
-5. Status updated (accepted/rejected)
-6. Applicant receives notification
+3. Recruiter reviews application
+4. Status updated (accepted/rejected)
 
 ## 📊 API Endpoints
 
@@ -209,12 +194,6 @@ Contributions are welcome! Please follow these steps:
 - GitHub: [@Priyanshu-Jain7](https://github.com/Priyanshu-Jain7)
 - LinkedIn: [Priyanshu Jain](https://linkedin.com/in/priyanshu-jain-569b53243/)
 - Email: priyanshujain762@gmail.com
-
-## 🙏 Acknowledgments
-
-- Thanks to all contributors who helped in building this project
-- Inspired by modern job portal platforms
-- Built with ❤️ using MERN Stack
 
 ## 📈 Future Enhancements
 
